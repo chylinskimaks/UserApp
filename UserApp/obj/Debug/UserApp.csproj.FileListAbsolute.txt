@@ -1,0 +1,7 @@
+C:\Users\Trimlogic\source\repos\UserApp\UserApp\bin\Debug\UserApp.exe.config
+C:\Users\Trimlogic\source\repos\UserApp\UserApp\bin\Debug\UserApp.exe
+C:\Users\Trimlogic\source\repos\UserApp\UserApp\bin\Debug\UserApp.pdb
+C:\Users\Trimlogic\source\repos\UserApp\UserApp\obj\Debug\UserApp.csproj.AssemblyReference.cache
+C:\Users\Trimlogic\source\repos\UserApp\UserApp\obj\Debug\UserApp.csproj.CoreCompileInputs.cache
+C:\Users\Trimlogic\source\repos\UserApp\UserApp\obj\Debug\UserApp.exe
+C:\Users\Trimlogic\source\repos\UserApp\UserApp\obj\Debug\UserApp.pdb
