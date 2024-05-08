@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Users>
+  <User>
+    <Username>user1</Username>
+    <Password>pass123</Password>
+    <IsValid>true</IsValid>
+  </User>
+  <User>
+    <Username>user2</Username>
+    <Password>wrongpass</Password>
+    <IsValid>false</IsValid>
+  </User>
+  <User>
+    <Username>nonexistent</Username>
+    <Password>any</Password>
+    <IsValid>false</IsValid>
+  </User>
+</Users>
